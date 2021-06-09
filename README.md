@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: nk7118491@gmail.com
-- 😄 Pronouns: He/His
 
